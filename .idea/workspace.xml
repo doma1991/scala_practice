@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="382baf11-5fc3-476b-8834-0a3584bf342d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/caseClass/Feline.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/caseClass/Lion.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/caseClass/Cat.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/caseClass/Cat.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576067656673</updated>
       <workItem from="1576067660214" duration="4377000" />
-      <workItem from="1576141900546" duration="2474000" />
+      <workItem from="1576141900546" duration="3132000" />
     </task>
     <servers />
   </component>
@@ -149,6 +152,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="287" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1576167223908" />
+    <state x="653" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1576658587841">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1576658587841" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1576587808301">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
