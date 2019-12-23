@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="382baf11-5fc3-476b-8834-0a3584bf342d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/data/Calculation.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/data/Source.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/data/TrafficLights.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/traits/Circle.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/traits/Divide.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/traits/Draw.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/traits/Rectangle.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/traits/Rectangular.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/traits/Shape.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/traits/Square.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/recursion/Expression.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/recursion/IntList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/recursion/Tree.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +142,7 @@
       <workItem from="1576067660214" duration="4377000" />
       <workItem from="1576141900546" duration="5965000" />
       <workItem from="1576685602593" duration="206000" />
-      <workItem from="1576947177668" duration="1642000" />
+      <workItem from="1576947177668" duration="4477000" />
     </task>
     <servers />
   </component>
